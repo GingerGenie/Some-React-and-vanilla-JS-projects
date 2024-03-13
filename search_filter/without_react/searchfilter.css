@@ -1,0 +1,10 @@
+th{
+    font-weight: normal;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
